@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ol{
+    background-color: black;
+}
+ol li{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.2rem;
+    color: aliceblue;
+
+
+}
+li:hover
+{
+   color: cornsilk; 
+}
+
+#Mys
+{
+    margin-right: 0;
+    font-size: 3rem;
+    text-decoration: none;
+    color: darkgrey;
+}
+.centre
+{
+    margin: 0px -48px 0px 80px;
+    padding: 20px 3px 0px 0px;
+}
