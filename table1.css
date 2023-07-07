@@ -1,0 +1,25 @@
+table td
+{
+    border-top: solid;
+    width: 20%;
+    border-right: solid;
+    border-collapse: collapse;
+    border-color: orange;
+    border-width: 1px;
+}
+.mid
+{
+    text-align: center;
+}
+tr:nth-child(even)
+{
+    background-color:rgba(255, 182, 193, 0.329);
+}
+tr:last-child
+{
+    background-color: rgba(2, 2, 92, 0.63);
+}
+tr:first-child
+{
+    background-color: rgba(255, 68, 0, 0.733);
+}
